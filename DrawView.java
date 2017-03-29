@@ -13,9 +13,9 @@ import android.graphics.Paint;
 import android.graphics.Path;
 import android.view.MotionEvent;
 
-/**
- * Created by gifin on 14.06.2016.
- */
+
+
+
 public class DrawView extends View
 {
 
